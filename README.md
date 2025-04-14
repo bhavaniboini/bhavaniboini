@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Bhavani — Data Analyst | Problem Solver | Lifelong Learner
+## 👋 Hi, I'm Bhavani —  | Problem Solver | Lifelong Learner
 
 I’m passionate about analyzing data, building machine learning models, and creating intuitive dashboards to turn data into action. With a strong academic background in Mathematics and hands-on coding experience, I enjoy solving real-world challenges using data.
 
