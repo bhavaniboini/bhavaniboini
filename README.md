@@ -4,7 +4,7 @@ I’m passionate about analyzing data, building machine learning models, and cre
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Projects.
 
 #### 📊 [Weather Forecasting Model](https://github.com/bhavaniboini/weather-forecasting)
 - Predicts temperature and precipitation using historical data  
