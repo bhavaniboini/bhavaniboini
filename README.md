@@ -16,25 +16,12 @@ I’m passionate about analyzing data, building machine learning models, and cre
 - Shows a new motivational quote each click  
 - Responsive design + clean UI
 
-#### 🌾 [Agricultural Data Analysis](https://github.com/yourusername/agri-data-analysis)
-- Explored crop-wise yield, area, and production data  
-- Visualized regional patterns using **Matplotlib & Excel**  
-- Delivered actionable insights for agri-policy improvement
 
-#### 🧹 [Data Cleaning & EDA Project](https://github.com/yourusername/data-cleaning-eda)
-- Cleaned and explored messy datasets (nulls, outliers, dtypes)  
-- Used Pandas, Seaborn, and Matplotlib  
-- Created professional-level visual reports
 
-#### 🧠 [Student Performance Prediction](https://github.com/yourusername/student-performance)
-- Used ML models to predict student scores based on study habits and attendance  
-- Achieved 85% accuracy using logistic regression  
-- Showed importance of specific study metrics
 
-#### 🧾 [Sales Dashboard Project](https://github.com/yourusername/sales-dashboard)
-- Built a dashboard for sales trends using Excel & Python  
-- Tracked monthly revenue, customer churn, and top products  
-- Improved decision-making through visual analytics
+
+
+
 
 ---
 
