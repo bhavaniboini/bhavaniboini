@@ -6,10 +6,15 @@ I’m passionate about analyzing data, building machine learning models, and cre
 
 ### 📂 Featured Projects.
 
-#### 📊 [Weather Forecasting Model](https://github.com/bhavaniboini/weather-forecasting)
-- Predicts temperature and precipitation using historical data  
-- Used Random Forest, feature engineering (humidity, wind, pressure)  
-- Built an interactive dashboard using **Streamlit & Plotly**
+
+#### 🍽️ [Food Delivery Time Prediction](https://github.com/bhavaniboini/B44_DA_048_Food_Delivery_TimePrediction)
+
+* Built a machine learning model to predict **delivery time (in minutes)** for food orders using variables like **distance**, **traffic**, **weather**, and **courier experience**
+* Conducted **data preprocessing**, **EDA**, and trained models such as **Linear Regression** and **Random Forest Regressor**
+* Achieved high accuracy with **Random Forest**, identifying key factors affecting delivery time
+* Future scope includes **deployment using Streamlit** and integration with real-time order data
+
+
 
 #### 💬 [Random Quote Generator](https://github.com/bhavaniboini/CRT-Internship-Random-quote-generator)
 - Web app built using HTML, CSS, and JavaScript  
