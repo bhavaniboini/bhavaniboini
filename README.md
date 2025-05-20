@@ -11,7 +11,7 @@ I’m passionate about analyzing data, building machine learning models, and cre
 - Used Random Forest, feature engineering (humidity, wind, pressure)  
 - Built an interactive dashboard using **Streamlit & Plotly**
 
-#### 💬 [Random Quote Generator](https://github.com/bhavaniboini/random-quote-generator)
+#### 💬 [Random Quote Generator](https://github.com/bhavaniboini/CRT-Internship-Random-quote-generator)
 - Web app built using HTML, CSS, and JavaScript  
 - Shows a new motivational quote each click  
 - Responsive design + clean UI
