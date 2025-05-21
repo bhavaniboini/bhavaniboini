@@ -53,7 +53,7 @@ I’m passionate about analyzing data, building machine learning models, and cre
 ### 📬 Let's Connect
 
 - **GitHub:** [github.com/yourusername](https://github.com/bhavaniboini)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/bhavani-boini)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/bhavani-boini-74a0a4223)  
 - **Email:** bhavaniboini5@gmail.com
 
 ---
